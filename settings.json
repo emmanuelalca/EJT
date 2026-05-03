@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "relaxingplains.aternos.me",
-    "port": 14068,
+    "ip": "lavalake.aternos.me",
+    "port": 27516,
     "version": "1.21.11",
     "try-creative": false
   },
